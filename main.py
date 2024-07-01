@@ -53,4 +53,3 @@ if __name__ == '__main__':
     data, real_labels = data,labels=generate_zoo_data(path="dataset/zoo/zoo.data")
     ARI = dsr(data, real_labels, budget, l)
     print(ARI)
-752
