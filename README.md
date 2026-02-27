@@ -1,1 +1,1 @@
-This a effective and scalable active constrained clustering method.
+This is an effective and scalable active constrained clustering method.
